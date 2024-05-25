@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="[https://i.imgur.com/Y0cYdMb.png](https://th.bing.com/th/id/R.99ef37a63c47812647dc2d481f76880d?rik=XVXZOTVI4NR1Yw&riu=http%3a%2f%2ficon-library.com%2fimages%2fmath-icon-png%2fmath-icon-png-20.jpg&ehk=AeRjTFkwsGq4T4AgTCVkFo%2bMG9I9qevDT1C3gq9GxCw%3d&risl=&pid=ImgRaw&r=0)" alt="MFC Logo" width="120" height="120">
   <h1>C Math Function Calculator (MFC)</h1>
   <p>
     <b>MFC</b> is a simple command-line program written in C that provides various mathematical functions and operations.<br>
