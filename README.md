@@ -21,7 +21,7 @@
 1. Clone the repository or download the source code:
 
 ```bash
-git clone https://github.com/your-username/mfc.git
+git clone https://github.com/yssnne/mfc.git
 ```
 
 2. Compile the C source file(s) using a C compiler:
